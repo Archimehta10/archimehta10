@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently studying in Nitte Meenakshi Institute of Technology, Bengaluru
+🔭 I’m currently studying in Nitte Meenakshi Institute of Technology, Bengaluru  <br/>
 🌱 I’m currently learning Backend Development
